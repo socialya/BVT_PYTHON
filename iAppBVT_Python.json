@@ -1,0 +1,12 @@
+{
+    "desired_caps": {
+        "platformName": "Android",
+        "deviceName": "android:6.0",
+        "udid": "emulator-5554",
+        "noReset": "false",
+        "automationName": "UiAutomator2",
+        "appPackage": "com.appsflyer.androidsampleapp",
+        "appActivity": ".MainActivity"
+    },
+    "appium_server_url": "http://localhost:4723/wd/hub"
+}
